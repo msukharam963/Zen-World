@@ -4,9 +4,6 @@
 
 Zen World is an immersive virtual reality application built in Unity. It features a central "Zen Garden" hub where players can relax, explore, and unlock portals to different atmospheric worlds using a physical key-and-lock mechanic.
 
-![Project Banner](https://via.placeholder.com/800x400?text=Zen+World+VR+Screenshot) 
-*(Replace the link above with a screenshot of your game later)*
-
 ## 🎮 Features
 * **Immersive Main Menu:** Starts in a calming 360° video environment with floating UI.
 * **Physics-Based Interaction:** Realistic grabbing and throwing mechanics for keys and objects.
