@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0b3441dd3ecac4e5d8380d95c07faf34
+timeCreated: 1490481081
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 86980
+  packageName: Northern Lights Pack
+  packageVersion: 1.1.1
+  assetPath: Assets/Northern Lights Pack/URP Specific/Prefabs/Northern Lights Parent
+    URP.prefab
+  uploadId: 413024

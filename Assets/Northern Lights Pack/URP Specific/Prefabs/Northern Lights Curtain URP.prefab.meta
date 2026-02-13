@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8d2927d57704c4150b47e40d9181b198
+timeCreated: 1490402759
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 86980
+  packageName: Northern Lights Pack
+  packageVersion: 1.1.1
+  assetPath: Assets/Northern Lights Pack/URP Specific/Prefabs/Northern Lights Curtain
+    URP.prefab
+  uploadId: 413024
