@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db0659fe35ea74a66b5aec1e283435cf
+timeCreated: 1490410824
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 86980
+  packageName: Northern Lights Pack
+  packageVersion: 1.1.1
+  assetPath: Assets/Northern Lights Pack/URP Specific/DemoScene/Foreground URP.mat
+  uploadId: 413024

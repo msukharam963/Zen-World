@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 523a0a0d6695449a985702e8a1953117
+timeCreated: 1489872090
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 86980
+  packageName: Northern Lights Pack
+  packageVersion: 1.1.1
+  assetPath: Assets/Northern Lights Pack/URP Specific/Materials/NorthernLightsGreenURP.mat
+  uploadId: 413024

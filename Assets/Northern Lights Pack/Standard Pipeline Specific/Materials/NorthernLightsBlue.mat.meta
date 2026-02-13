@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cc0b85f67738941dfb5d2c21aa23f548
+timeCreated: 1489872090
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 86980
+  packageName: Northern Lights Pack
+  packageVersion: 1.1.1
+  assetPath: Assets/Northern Lights Pack/Standard Pipeline Specific/Materials/NorthernLightsBlue.mat
+  uploadId: 413024
